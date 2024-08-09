@@ -1,0 +1,49 @@
+[33mcommit ee486cdb7ba6628dd7b082414e5c8025bfa85d7a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Félix Mahoundo <fxmahoundo@hotmail.com>
+Date:   Tue Aug 6 22:04:06 2024 +0200
+
+    présentation
+
+[1mdiff --git a/hello.html b/hello.html[m
+[1mindex 70d1a3e..882ebb6 100644[m
+[1m--- a/hello.html[m
+[1m+++ b/hello.html[m
+[36m@@ -16,6 +16,8 @@[m
+ 		<div id="top-banner">[m
+ 			Bienvenue dans cette formation GIT ![m
+ 		</div>[m
+[31m-		[m
+[32m+[m		[32m<div>[m
+[32m+[m		[32m<p> Entaîneur (instructeur jka ) </p>[m
+[32m+[m		[32m</div>[m
+ 	[m
+ </body></html>[m
+\ No newline at end of file[m
+[1mdiff --git a/hello.html.bak b/hello.html.bak[m
+[1mnew file mode 100644[m
+[1mindex 0000000..70d1a3e[m
+[1m--- /dev/null[m
+[1m+++ b/hello.html.bak[m
+[36m@@ -0,0 +1,21 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<!-- saved from url=(0268)https://mp4-a.udemycdn.com/2018-06-27_12-49-35-ad92057bdafda2c4cfe49e64bcd273be/original.html?vcDtbq7QYDuchfBrzkZ7Jr5_8ixrcqY9Kqb0Glkoi53T-%2DaStrO3j6iv3pg2lczlnr2WxSO06A4FFVZDIJsQP5n6DzM95nB8KMoFKVWjyqLCnctzCRaHZKnHO3MmNvcrJAo7dGKKzqqknX1YjdcU6VTly_0Dt3J3amStHNxNG98w -->[m
+[32m+[m[32m<html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">[m
+[32m+[m[41m        [m
+[32m+[m[32m        <title>Formation GIT</title>[m
+[32m+[m[41m        [m
+[32m+[m[41m		[m
+[32m+[m		[32m<link rel="stylesheet" href="./style.css">[m
+[32m+[m
+[32m+[m	[32m</head>[m
+[32m+[m[41m	[m
+[32m+[m
+[32m+[m	[32m<body>[m
+[32m+[m
+[32m+[m		[32m<!-- TITRE -->[m
+[32m+[m		[32m<div id="top-banner">[m
+[32m+[m			[32mBienvenue dans cette formation GIT ![m
+[32m+[m		[32m</div>[m
+[32m+[m[41m		[m
+[32m+[m[41m	[m
+[32m+[m[32m</body></html>[m
+\ No newline at end of file[m
